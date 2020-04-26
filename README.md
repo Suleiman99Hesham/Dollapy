@@ -1,2 +1,8 @@
-# internet-tecnology
-codes of Project Website in this Course in University which include HTML,CSS,JavaScript,JQuery,PHP and Bootstrap
+# iDollapy
+Dollapy is simple website for selling and buying clothes , it was a project in academic course in faculty within a team
+## used languages:
+###HTML
+###CSS
+###JavaScript
+###JQuery
+###BootStrap
